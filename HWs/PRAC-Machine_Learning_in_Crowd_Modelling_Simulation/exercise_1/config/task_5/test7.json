@@ -1,0 +1,65 @@
+{
+  "WINDOW_SIZE": {
+    "WINDOW_WIDTH": 840,
+    "WINDOW_HEIGHT": 840
+  },
+  "GRID_SIZE": {
+    "N_ROW": 210,
+    "N_COL": 210
+  },
+  "CELL_DISTANCE": {
+    "DISTANCE_BY_ROW": 1.0,
+    "DISTANCE_BY_COL": 1.0
+  },
+  "OBSTACLE_FLAGS": {
+    "OBSTACLE_AVOIDANCE_FLAG": true,
+    "OBSTACLE_EXTRA_COST": 0
+  },
+  "DISPLAY": {
+    "STOP_DISPLAY_AFTER_STUCK": true,
+    "DISPLAY_DELTA_TIMESTAMP": 0.1,
+    "END_FREEZE": 2
+  },
+  "SCREENSHOT": {
+    "SS_FOLDER_NAME": "task_5_test_7",
+    "SS_START": true,
+    "SS_FINAL": true,
+    "SS_PERIOD": 10
+  },
+  "STEP_LIMIT": {
+    "ACTIVE": false,
+    "VALUE": 25
+  },
+ "GRID": {
+    "PEDESTRIANS": [
+      [3, 1, 1.7],
+      [4, 1, 1.55],
+      [5, 1, 1.5],
+      [6, 1, 1.4],
+      [7, 1, 1.25],
+      [8, 1, 1],
+      [9, 1, 0.75],
+      [10, 1, 1.7],
+      [11, 1, 1.55],
+      [12, 1, 1.5],
+      [13, 1, 1.4],
+      [14, 1, 1.25],
+      [15, 1, 1],
+      [16, 1, 0.75],
+      [17, 1, 1.7],
+      [18, 1, 1.55],
+      [19, 1, 1.5],
+      [20, 1, 1.4],
+      [21, 1, 1.25],
+      [22, 1, 1],
+      [23, 3, 0.75],
+      [24, 1, 1.7],
+      [25, 3, 1.55],
+      [26, 1, 1.5],
+      [27, 3, 1.4],
+      [28, 1, 1.25],
+      [29, 1, 1]
+    ],
+    "TARGET": [12, 200]
+  }
+}

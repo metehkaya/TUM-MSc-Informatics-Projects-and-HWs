@@ -1,0 +1,17 @@
+# IDE related
+.idea/
+exercise_2/out/
+*.iml
+
+
+# Jupyter-lab related
+.ipynb_checkpoints/
+
+# Virtual environment related
+venv/
+
+# MacOS related
+.DS_Store
+
+# Python related
+__pycache__/

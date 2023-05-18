@@ -1,0 +1,46 @@
+{
+  "WINDOW_SIZE": {
+    "WINDOW_WIDTH": 800,
+    "WINDOW_HEIGHT": 800
+  },
+  "GRID_SIZE": {
+    "N_ROW": 50,
+    "N_COL": 50
+  },
+  "CELL_DISTANCE": {
+    "DISTANCE_BY_ROW": 1.0,
+    "DISTANCE_BY_COL": 1.0
+  },
+  "OBSTACLE_FLAGS": {
+    "OBSTACLE_AVOIDANCE_FLAG": false,
+    "OBSTACLE_EXTRA_COST": 1000000000
+  },
+  "DISPLAY": {
+    "STOP_DISPLAY_AFTER_STUCK": true,
+    "DISPLAY_DELTA_TIMESTAMP": 0.1,
+    "END_FREEZE": 2
+  },
+  "SCREENSHOT": {
+    "SS_FOLDER_NAME": "task_4_obstacle_avoidance_0_cost_BIG",
+    "SS_START": true,
+    "SS_FINAL": true,
+    "SS_PERIOD": 10
+  },
+  "STEP_LIMIT": {
+    "ACTIVE": false,
+    "VALUE": 25
+  },
+  "GRID": {
+    "PEDESTRIANS": [
+      [20, 5, 5],
+      [25, 5, 5],
+      [30, 5, 5]
+    ],
+    "OBSTACLES": [
+      [11, 15, 15, 35],
+      [35, 15, 39, 35],
+      [16, 31, 34, 35]
+    ],
+    "TARGET": [25, 45]
+  }
+}

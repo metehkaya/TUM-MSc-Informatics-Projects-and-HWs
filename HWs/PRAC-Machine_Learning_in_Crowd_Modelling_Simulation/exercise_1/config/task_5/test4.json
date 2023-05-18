@@ -1,0 +1,63 @@
+{
+  "WINDOW_SIZE": {
+    "WINDOW_WIDTH": 750,
+    "WINDOW_HEIGHT": 750
+  },
+  "GRID_SIZE": {
+    "N_ROW": 150,
+    "N_COL": 150
+  },
+  "CELL_DISTANCE": {
+    "DISTANCE_BY_ROW": 1.0,
+    "DISTANCE_BY_COL": 1.0
+  },
+  "OBSTACLE_FLAGS": {
+    "OBSTACLE_AVOIDANCE_FLAG": true,
+    "OBSTACLE_EXTRA_COST": 0
+  },
+  "DISPLAY": {
+    "STOP_DISPLAY_AFTER_STUCK": true,
+    "DISPLAY_DELTA_TIMESTAMP": 0.1,
+    "END_FREEZE": 2
+  },
+  "SCREENSHOT": {
+    "SS_FOLDER_NAME": "task_5_test_4",
+    "SS_START": true,
+    "SS_FINAL": true,
+    "SS_PERIOD": 10
+  },
+  "STEP_LIMIT": {
+    "ACTIVE": false,
+    "VALUE": 25
+  },
+  "GRID": {
+    "PEDESTRIANS": [
+      [3, 1, 1.2],
+      [5, 1, 1.2],
+      [7, 1, 1.2],
+      [9, 1, 1.2],
+      [11, 1, 1.2],
+      [13, 1, 1.2],
+      [15, 1, 1.2],
+      [17, 1, 1.2],
+      [19, 1, 1.2],
+      [21, 1, 1.2],
+      [4, 3, 1.2],
+      [6, 3, 1.2],
+      [8, 3, 1.2],
+      [10, 3, 1.2],
+      [12, 3, 1.2],
+      [14, 3, 1.2],
+      [16, 3, 1.2],
+      [18, 3, 1.2],
+      [20, 3, 1.2],
+      [21, 3, 1.2]
+    ],
+    "OBSTACLES": [
+      [2, 1, 2, 140],
+      [22, 1, 22, 140],
+      [2, 140, 22, 140]
+    ],
+    "TARGET": [12, 140]
+  }
+}
