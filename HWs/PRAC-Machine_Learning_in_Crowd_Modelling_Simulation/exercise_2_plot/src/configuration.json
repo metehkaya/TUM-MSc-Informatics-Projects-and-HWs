@@ -1,0 +1,10 @@
+{
+	"CSV_GROUP_ID_COLUMN_NAME": "groupId-PID8",
+	"OUTPUT_FOLDER_PATHS": [
+		"D:\\TUM\\SS22\\Machine Learning in Crowd Modeling & Simulation\\Ex_2\\vadere\\Scenarios\\ModelTests\\TestOSM\\output\\task5_sc1_iRate_0.01_rRate_0.01",
+		"D:\\TUM\\SS22\\Machine Learning in Crowd Modeling & Simulation\\Ex_2\\vadere\\Scenarios\\ModelTests\\TestOSM\\output\\task5_sc1_iRate_0.03_rRate_0.01",
+		"D:\\TUM\\SS22\\Machine Learning in Crowd Modeling & Simulation\\Ex_2\\vadere\\Scenarios\\ModelTests\\TestOSM\\output\\task5_sc1_iRate_0.01_rRate_0.03",
+		"D:\\TUM\\SS22\\Machine Learning in Crowd Modeling & Simulation\\Ex_2\\vadere\\Scenarios\\ModelTests\\TestOSM\\output\\task5_sc1_iRate_0.03_rRate_0.03"
+	],
+	"FIGURE_PATH": "C:\\Users\\User\\Desktop\\SS\\Plot\\task5_sc1_iRate_0.0x_rRate_0.0x.png"
+}

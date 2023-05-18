@@ -1,0 +1,1 @@
+./scenarios/task1_rimea6.scenario
